@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wortilo — backend-разработчик"
+  short_description: "Rust API, целостность данных и безопасная синхронизация"
+  default_prompt: "Используй $wortilo-backend, чтобы реализовать указанную серверную задачу Wortilo по контракту, проверить данные и объяснить решение."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wortilo — frontend-разработчик"
+  short_description: "React Native, клиентские сценарии и офлайн-данные"
+  default_prompt: "Используй $wortilo-frontend, чтобы реализовать указанную клиентскую задачу Wortilo по требованиям и объяснить выбранное решение."
