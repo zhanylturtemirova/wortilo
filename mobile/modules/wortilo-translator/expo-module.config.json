@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["WortiloTranslatorModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.wortilotranslator.WortiloTranslatorModule"]
+  }
+}

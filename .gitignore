@@ -1,0 +1,5 @@
+# Local build output
+/backend/target/
+**/.gradle/
+/mobile/modules/*/android/build/
+.DS_Store
